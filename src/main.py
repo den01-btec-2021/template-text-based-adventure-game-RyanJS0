@@ -13,9 +13,10 @@ def main():
         print("You went South")
     elif direction == "East":
         print("You went East")
-    else:
+    elif direction == "West"
         print("You went West")
-
+    Else:
+        print("Sorry not recognised")
 
 main()
     
